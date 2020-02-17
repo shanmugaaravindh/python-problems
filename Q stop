@@ -1,0 +1,17 @@
+a=input("enter a")
+while(a):
+    b=input("enter a")
+    print(b)
+    if(b=="q"):
+        break
+'''
+sample input:
+very
+sample output:
+very
+
+sample input:
+q
+sample output:
+>>>
+'''
